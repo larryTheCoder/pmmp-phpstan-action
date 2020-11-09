@@ -1,4 +1,4 @@
-FROM nxtlvlsoftware/pmmp-phpstan:master
+FROM mrpotato101/docker-pmmp:latest
 
 USER root
 
