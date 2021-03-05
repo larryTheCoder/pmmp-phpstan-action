@@ -1,4 +1,4 @@
-FROM mrpotato101/docker-pmmp:latest
+FROM mrpotato101/docker-pmmp:phpstan-pm-8
 
 USER root
 
